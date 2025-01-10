@@ -1,0 +1,208 @@
+{"level":30,"time":"2025-01-10T09:18:53.021Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Listening on 57585"}
+{"level":30,"time":"2025-01-10T09:18:53.262Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:18:53.263Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:18:53.270Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:18:53.270Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:18:53.279Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-01-10T09:18:54.589Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-01-10T09:18:54.596Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method newContext"}
+{"level":30,"time":"2025-01-10T09:18:54.597Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-01-10T09:18:54.597Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Trace file: "}
+{"level":30,"time":"2025-01-10T09:18:54.622Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Changed active context"}
+{"level":30,"time":"2025-01-10T09:18:54.622Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method newContext"}
+{"level":30,"time":"2025-01-10T09:18:54.636Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-01-10T09:18:54.636Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-01-10T09:18:54.989Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Video path: undefined"}
+{"level":30,"time":"2025-01-10T09:18:54.989Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Changed active page"}
+{"level":30,"time":"2025-01-10T09:18:59.530Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method newPage"}
+{"level":30,"time":"2025-01-10T09:18:59.548Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:18:59.550Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=//a[normalize-space()='Signup / Login'] in page."}
+{"level":30,"time":"2025-01-10T09:19:00.245Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:00.248Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:00.249Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=//a[normalize-space()='Signup / Login'] in page."}
+{"level":30,"time":"2025-01-10T09:19:01.606Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:01.672Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:01.673Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@placeholder='Name'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:02.389Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:02.393Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:02.394Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@placeholder='Name'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:02.919Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:02.933Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:02.934Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@data-qa='signup-email'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:03.470Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:03.480Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:03.480Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@data-qa='signup-email'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:04.052Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:04.066Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:04.067Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//button[normalize-space()='Signup'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:04.586Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:04.589Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:04.589Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//button[normalize-space()='Signup'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:05.424Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:05.433Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:05.433Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='id_gender1'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:06.042Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:06.045Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:06.045Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='id_gender1'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:06.611Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:06.615Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:06.615Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='password'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:07.132Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:07.134Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:07.134Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='password'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:07.670Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:07.673Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:07.673Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='days'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:08.190Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:08.193Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:08.193Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='days'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:09.759Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Option entries: 32"}
+{"level":30,"time":"2025-01-10T09:19:09.760Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:09.759Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Selected entries: 1"}
+{"level":30,"time":"2025-01-10T09:19:09.777Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:09.777Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='months'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:10.301Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:10.309Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:10.309Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='months'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:11.912Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Option entries: 13"}
+{"level":30,"time":"2025-01-10T09:19:11.913Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:11.912Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Selected entries: 1"}
+{"level":30,"time":"2025-01-10T09:19:11.923Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:11.924Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='years'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:12.463Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:12.472Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:12.472Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='years'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:14.110Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Option entries: 123"}
+{"level":30,"time":"2025-01-10T09:19:14.111Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:14.110Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Selected entries: 1"}
+{"level":30,"time":"2025-01-10T09:19:14.128Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:14.129Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='newsletter'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:14.658Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:14.666Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:14.666Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='newsletter'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:15.274Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:15.284Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:15.284Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='optin'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:15.820Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:15.828Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:15.828Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='optin'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:16.451Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:16.487Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:16.488Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='first_name'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:17.014Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:17.022Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:17.022Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='first_name'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:17.630Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:17.642Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:17.643Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='last_name'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:18.176Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:18.186Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:18.186Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='last_name'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:18.807Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:18.818Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:18.818Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='company'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:19.358Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:19.366Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:19.367Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='company'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:19.984Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:19.999Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:19.999Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='address1'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:20.529Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:20.534Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:20.535Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='address1'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:21.136Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:21.150Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:21.151Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='address2'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:21.684Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:21.694Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:21.694Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='address2'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:22.298Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:22.313Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:22.314Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='country'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:22.849Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:22.857Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:22.857Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//select[@id='country'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:24.465Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Option entries: 7"}
+{"level":30,"time":"2025-01-10T09:19:24.465Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method selectOption"}
+{"level":30,"time":"2025-01-10T09:19:24.465Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Selected entries: 1"}
+{"level":30,"time":"2025-01-10T09:19:24.478Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:24.479Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='state'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:25.014Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:25.023Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:25.023Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='state'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:25.661Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:25.674Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:25.674Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='city'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:26.214Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:26.228Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:26.228Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='city'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:26.778Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:26.789Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:26.789Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='zipcode'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:27.333Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:27.345Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:27.346Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='zipcode'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:27.904Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:27.916Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:27.916Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='mobile_number'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:28.456Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:28.464Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:28.464Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//input[@id='mobile_number'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:29.090Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method fillText"}
+{"level":30,"time":"2025-01-10T09:19:29.110Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:29.110Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//button[normalize-space()='Create Account'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:29.642Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:29.650Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:29.650Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//button[normalize-space()='Create Account'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:31.612Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:31.631Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:31.631Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//b[normalize-space()='Account Created!'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:32.231Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:32.253Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:32.253Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//a[normalize-space()='Continue'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:32.857Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:32.864Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:32.865Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//a[normalize-space()='Continue'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:33.932Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:33.946Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:33.946Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//a[normalize-space()='Logout'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:34.900Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:34.910Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method click"}
+{"level":30,"time":"2025-01-10T09:19:34.910Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//a[normalize-space()='Logout'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:36.130Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method click"}
+{"level":30,"time":"2025-01-10T09:19:36.141Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:36.141Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Strict mode is enabled, find Locator with xpath=(//h2[normalize-space()='Login to your account'])[1] in page."}
+{"level":30,"time":"2025-01-10T09:19:36.700Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-01-10T09:19:36.720Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2025-01-10T09:19:36.829Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Removed page=e68717ea-e016-424e-81ec-c4cddd5933ab from context=06367687-7f8c-4889-a103-8ff78dc72fa6 page stack"}
+{"level":30,"time":"2025-01-10T09:19:37.179Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2025-01-10T09:19:37.187Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:19:37.187Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (c:\users\aamohamed\appdata\local\programs\python\python38\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2025-01-10T09:19:37.193Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:19:37.193Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-01-10T09:19:37.276Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-01-10T09:19:37.276Z","pid":11608,"hostname":"TOC1LTAAMOHAMED","msg":"End of node method closeAllBrowsers"}
