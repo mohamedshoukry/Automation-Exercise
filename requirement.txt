@@ -1,0 +1,14 @@
+reportportal-client
+robotframework-reportportal
+robotframework==6.1
+robotframework-databaselibrary==1.2.4
+robotframework-dependencylibrary==4.0.1
+robotframework-browser
+robotframework-requests==0.9.5
+PyYAML==5.4.1
+pymssql==2.2.5
+robotframework-pabot
+robotframework-JSONLibrary
+robotframework-retryfailed
+robotframework-screencaplibrary
+robotframework-excellib
